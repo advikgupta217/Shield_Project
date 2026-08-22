@@ -1,0 +1,1 @@
+Safety SOS App which sends an SOS message and call whenever user falls. Also have a working pedometer
