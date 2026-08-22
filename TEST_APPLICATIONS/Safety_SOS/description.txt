@@ -1,1 +1,0 @@
-Safety SOS App with working SOS call and sms and working false sos for falling condition(mpu6050+esp32+oled display)
